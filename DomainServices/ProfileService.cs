@@ -15,6 +15,7 @@ namespace DomainServices
 
         public Profile GetProfile(Guid id)
         {
+            return id;
         }
     }
 }

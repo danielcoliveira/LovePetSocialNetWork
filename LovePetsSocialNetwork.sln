@@ -21,7 +21,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{B782
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureStorageService", "AzureStorageService\AzureStorageService.csproj", "{32E9321A-358F-4E9D-90BE-4F2246BD45BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LovePetSocialNetwork", "LovePetSocialNetwork\LovePetSocialNetwork.csproj", "{B4CFD849-042F-42AA-B2AF-BE888454A28D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LovePetWebAPI", "LovePetSocialNetwork\LovePetWebAPI.csproj", "{B4CFD849-042F-42AA-B2AF-BE888454A28D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
